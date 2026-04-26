@@ -9,8 +9,8 @@
 I am an Artificial Intelligence student at Menoufia University, a trainee at the Digital Egypt Pioneers Initiative (DEPI), and I currently hold a scholarship at GCI World 2026 Program-Data Science&Al. I am passionate about data science, robotics engineering, and building real-world systems that combine intelligent predictive models with clean, interactive user interfaces.
 
 - 🔭 **I’m currently working on:** Autonomous systems (ROS2 Humble, Lidar integration) and building interactive GUI applications.
-- 🌱 **I’m currently learning/focusing on:** Advanced machine learning algorithms, path planning, and real-time sensor integration.
-- 💬 **Ask me about:** Python, Machine Learning, Data Visualization, or PySide6.
+- 🌱 **I’m currently learning/focusing on:** Advanced machine learning algorithms, generative Ai,path planning, and real-time sensor integration.
+- 💬 **Ask me about:** Machine Learning ,Deep Learning ,Computer Vision ,ROS2 ,or Data Visualization, .
 
 ## 🛠 Tech Stack
 
